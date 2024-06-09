@@ -88,6 +88,7 @@ Documentation:<br />
 Waterfall: Extensive<br />
 Agile: Minimal, focuses on working software
 
+### scenarios that each might be preferred
 Testing:<br />
 Waterfall: At the end of the development phase<br />
 Agile: Continuous testing in every iteration

@@ -304,7 +304,7 @@ Automation: Considering the ethical implications of job displacement due to auto
 
 Intellectual Property: Respecting intellectual property rights and avoiding plagiarism in code or design.
 
-#### Software engineers can navigate these issues and uphold ethical standards through these practices:
+### Software engineers can navigate these issues and uphold ethical standards through these practices:
 
 Awareness: Staying informed about ethical issues in software development and their potential consequences.
 
